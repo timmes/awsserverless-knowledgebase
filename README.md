@@ -1,5 +1,18 @@
-# awsserverless-knowledgebase
-A collection of links to stay up to date with everything serverless on AWS.
+# AWS Serverless Knowledgebase
+A curated collection of links to stay up to date with everything serverless on AWS.
+
+## Table of Contents
+- [Service Pages](#service-pages)
+  - [Compute](#compute)
+  - [Application Integration](#application-integration)
+  - [Data Store](#data-store)
+- [Digital Training](#digital-training)
+- [Instructor-led Training](#instructor-led-training)
+- [Best Practices](#best-practices)
+- [re:Invent and AWS Summit Recordings](#reinvent-and-aws-summit-recordings)
+- [Other Recordings](#other-recordings)
+- [Additional Links](#additional-links)
+- [License](#license)
 
 ## Service Pages
 ### Compute
@@ -41,3 +54,6 @@ tbd
 ## Additional Links
 - [This Is My Architecture (Serverless)](https://aws.amazon.com/architecture/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.category=categories%23serverless&awsf.industry=*all&awsf.language=language%23english&awsf.show=*all&awsf.format=*all&awsf.use-case=*all)
 - [AWS Serverless Heroes](https://aws.amazon.com/developer/community/heroes/?community-heroes-all.sort-by=item.additionalFields.sortPosition&community-heroes-all.sort-order=asc&awsf.filter-hero-category=heroes%23serverless&awsf.filter-location=*all&awsf.filter-year=*all&awsf.filter-activity=*all)
+
+## License
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -72,6 +72,8 @@ A curated collection of links to stay up to date with everything serverless on A
 - [Green Boost](https://awslabs.github.io/green-boost/)
 
 ### Utilities
+- [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
+- [Serverless Rules](https://github.com/awslabs/serverless-rules)
 - [AWS Lambda Powertools for Python](https://github.com/awslabs/aws-lambda-powertools-python)
 - [AWS Lambda Powertools for TypeScript ](https://github.com/awslabs/aws-lambda-powertools-typescript)
 - [AWS Lambda Powertools for Java](https://github.com/awslabs/aws-lambda-powertools-java)
@@ -111,6 +113,8 @@ A curated collection of links to stay up to date with everything serverless on A
 - [Back to Basics](https://aws.amazon.com/architecture/back-to-basics/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.categories=categories%23serverless&awsf.architectural-pattern=*all)
 
 ## Additional Links
+- [Security Overview of AWS Lambda](https://docs.aws.amazon.com/whitepapers/latest/security-overview-aws-lambda/security-overview-aws-lambda.html)
+- [Serverless Applications Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/welcome.html)
 - [Serverless Land](https://serverlessland.com/)
 - [Bite-Sized Serverless](https://bitesizedserverless.com/)
 - [AWS Serverless Heroes](https://aws.amazon.com/developer/community/heroes/?community-heroes-all.sort-by=item.additionalFields.sortPosition&community-heroes-all.sort-order=asc&awsf.filter-hero-category=heroes%23serverless&awsf.filter-location=*all&awsf.filter-year=*all&awsf.filter-activity=*all)

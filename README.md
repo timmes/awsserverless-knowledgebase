@@ -106,13 +106,12 @@ A curated collection of links to stay up to date with everything serverless on A
 | [Application integration patterns for microservices](https://youtu.be/GoBOivyE7PY)                     | 300   |
 
 ## Other Recordings
-tbd
+- [This Is My Architecture (Serverless)](https://aws.amazon.com/architecture/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.category=categories%23serverless&awsf.industry=*all&awsf.language=language%23english&awsf.show=*all&awsf.format=*all&awsf.use-case=*all)
+- [Back to Basics](https://aws.amazon.com/architecture/back-to-basics/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.categories=categories%23serverless&awsf.architectural-pattern=*all)
 
 ## Additional Links
 - [Serverless Land](https://serverlessland.com/)
 - [Bite-Sized Serverless](https://bitesizedserverless.com/)
-- [This Is My Architecture (Serverless)](https://aws.amazon.com/architecture/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.category=categories%23serverless&awsf.industry=*all&awsf.language=language%23english&awsf.show=*all&awsf.format=*all&awsf.use-case=*all)
-- [Back to Basics](https://aws.amazon.com/architecture/back-to-basics/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.categories=categories%23serverless&awsf.architectural-pattern=*all)
 - [AWS Serverless Heroes](https://aws.amazon.com/developer/community/heroes/?community-heroes-all.sort-by=item.additionalFields.sortPosition&community-heroes-all.sort-order=asc&awsf.filter-hero-category=heroes%23serverless&awsf.filter-location=*all&awsf.filter-year=*all&awsf.filter-activity=*all)
 
 ## License

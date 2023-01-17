@@ -69,7 +69,7 @@ A curated collection of links to stay up to date with everything serverless on A
 - [AWS Serverless Application Model (AWS Sam)](https://aws.amazon.com/serverless/sam/)
 - [AWS Cloud Development Kit (AWS CDK)](https://aws.amazon.com/cdk/)
 - [AWS Chalice](https://github.com/aws/chalice)
-- [Green Bost](https://awslabs.github.io/green-boost/)
+- [Green Boost](https://awslabs.github.io/green-boost/)
 
 ### Utilities
 - [AWS Lambda Powertools for Python](https://github.com/awslabs/aws-lambda-powertools-python)

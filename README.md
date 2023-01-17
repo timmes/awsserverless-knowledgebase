@@ -85,26 +85,26 @@ A curated collection of links to stay up to date with everything serverless on A
 ### re:Invent 2022
 | Title                                                                  | Level |
 |------------------------------------------------------------------------|-------|
-| [Building next-gen applications with event-driven architectures](https://youtu.be/SbL3a9YOW7s)         | 300   |
 | [Get started building your first serverless, event-driven application](https://youtu.be/-WYBOuP1Y6E)   | 200   |
 | [Accelerating innovation with serverless on AWS](https://youtu.be/7bY-YH70h8g)                         | 200   |
+| [What's new with serverless](https://youtu.be/qHI8E92W9ZA)                                             | 200   |
+| [Accelerate workloads using parallelism w/Step Functions & Lambda](https://youtu.be/SG6_oy72hh4)       | 200   |
+| [EventBridge Pipes simplifies connecting event-driven services](https://youtu.be/xXGXCOc3cBs)          | 200   |
+| [How AWS Application Composer helps your team build great apps](https://youtu.be/txzU1Go9oxc)          | 200   |
+| [Building next-gen applications with event-driven architectures](https://youtu.be/SbL3a9YOW7s)         | 300   |
 | [Architecting secure serverless applications](https://youtu.be/A8iHQjHv8nY)                            | 300   |
 | [Building real-world serverless applications with AWS SAM](https://youtu.be/jZcS-XRt2Mo)               | 300   |
-| [Best practices for advanced serverless developers](https://youtu.be/PiQ_eZFO2GU)                      | 400   |
 | [Building global event-driven applications](https://youtu.be/NNTsOKuPlTQ)                              | 300   |
 | [Are you integrating or building distributed applications?](https://youtu.be/Zrj7RD7G24Q)              | 300   |
 | [Build your application easily & efficiently with serverless containers](https://youtu.be/MqPxzWqttJs) | 300   |
 | [Advanced serverless workflow patterns and best practices](https://youtu.be/o6-7BAUWaqg)               | 300   |
 | [Building Serverlesspresso: Creating event-driven architectures](https://youtu.be/qs0U0LdNkV0)         | 300   |
-| [What's new with serverless](https://youtu.be/qHI8E92W9ZA)                                             | 200   |
 | [AWS Lambda Powertools: Lessons from the road to 10 million downloads](https://youtu.be/dH2GP6Lydj8)   | 300   |
-| [A closer look at AWS Lambda](https://youtu.be/0_jfH6qijVY)                                            | 400   |
 | [Practical experience with a serverless-first strategy at Capital One](https://youtu.be/NZVNAEK6shc)   | 300   |
 | [Designing event-driven integrations using Amazon EventBridge](https://youtu.be/W3Rh70jG-LM)           | 300   |
-| [Accelerate workloads using parallelism w/Step Functions & Lambda](https://youtu.be/SG6_oy72hh4)       | 200   |
-| [EventBridge Pipes simplifies connecting event-driven services](https://youtu.be/xXGXCOc3cBs)          | 200   |
-| [How AWS Application Composer helps your team build great apps](https://youtu.be/txzU1Go9oxc)          | 200   |
 | [Application integration patterns for microservices](https://youtu.be/GoBOivyE7PY)                     | 300   |
+| [Best practices for advanced serverless developers](https://youtu.be/PiQ_eZFO2GU)                      | 400   |
+| [A closer look at AWS Lambda](https://youtu.be/0_jfH6qijVY)                                            | 400   |
 
 ## Other Recordings
 - [This Is My Architecture (Serverless)](https://aws.amazon.com/architecture/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.category=categories%23serverless&awsf.industry=*all&awsf.language=language%23english&awsf.show=*all&awsf.format=*all&awsf.use-case=*all)
